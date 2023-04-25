@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace SmartAPI.Model
 {
     public class Worker
@@ -16,6 +15,5 @@ namespace SmartAPI.Model
         public string Gender { get; set; }
         public string Address { get; set; }
         public float Salary { get; set; }
-
     }
 }
